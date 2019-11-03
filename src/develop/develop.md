@@ -8,6 +8,42 @@
     - 
 2. User Space
     - Applications
+        - Development
+        - Education
+            - KOOMPI FORCE
+        - Engineering
+            - CADs
+            - Electronics
+        - Game
+            - Steam
+        - Graphic
+            - Blender
+            - GIMP
+            - Inkscape
+            - Kirta
+            - Kdenlive
+            - Natron
+            - Devinci Resolve
+        - Internet
+            - Drive
+            - Account & Sync
+        - Media
+            - Gallery
+            - Music
+            - Video
+        - Office & Productivity
+            - Calculator
+            - Calendar
+            - Clock
+            - Note
+            - Reminder
+            - PDF
+            - Docs
+            - Spread Sheet
+            - Presentation
+        - Tools & Utility
+            - Zip & Archive
+            - 
     - Destop Enviroment
         - Login Manager
         - Window Manager
